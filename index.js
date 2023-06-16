@@ -2,7 +2,7 @@
 const element = document.createElement("div");
 const newHeader = document.createElement("h1");
  newHeader.setAttribute("id","victory");
- newHeader.innerHTML = "MARION MWANJE is the champion";
+ newHeader.innerHTML = "Marion Mwanje is the champion";
 document.body.append(element);
 const ul = document.createElement("ul");
 
