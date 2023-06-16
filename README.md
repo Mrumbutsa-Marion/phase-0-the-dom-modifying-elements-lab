@@ -41,6 +41,7 @@ Why not?
 
 ## Add Elements to the DOM
 
+
 To get an element to appear in the DOM, we have to `append()` it to an existing
 DOM node. To go back to our tree metaphor, we have to glue our new leaf onto a
 branch that's already there. We can start as high up on the tree as
